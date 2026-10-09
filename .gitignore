@@ -4,7 +4,6 @@
 #Exclude general
 SECRET/
 jukebox/
-Responsive/
 
 # Logs
 logs
